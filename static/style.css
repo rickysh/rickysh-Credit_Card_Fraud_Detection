@@ -1,0 +1,27 @@
+/* Global Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background: #f8f9fa;
+    /* Light background */
+}
+
+/* Custom Container */
+.container {
+    max-width: 1200px;
+}
+
+/* Form Styling */
+label {
+    font-weight: 600;
+}
+
+/* Button Hover Effect */
+button:hover {
+    background-color: #1a73e8;
+}
+
+/* Prediction Result */
+.mt-5.p-4 {
+    border: 2px solid #3498db;
+    border-radius: 16px;
+}

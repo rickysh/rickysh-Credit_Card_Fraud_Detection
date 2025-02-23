@@ -1,0 +1,6 @@
+creditcard.csv
+preprocessed_creditcard.csv
+fraud_detection_model.pkl
+.pytest_cache
+tests/__pycache__
+tests/reports
